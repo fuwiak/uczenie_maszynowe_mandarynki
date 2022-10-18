@@ -21,3 +21,7 @@ https://colab.research.google.com/drive/1nkD6yDUkfoVQg-nPeyAyNVHwhnFcPz9y#scroll
 # Temat2 - Regresja logistyczna
 
 https://colab.research.google.com/drive/11vHenberksU2ng68qdtK_ezLTFd2u6Ui?usp=sharing
+
+# Temat3
+
+https://colab.research.google.com/drive/1g2j5R_zWDODOLVSu_1AfCZGQCbuCfSbP#scrollTo=uBnHdy8Yh-xG
