@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1rKqr3MW_H6suP0TD922OTezN3zHCiOtVt0cj3TKE
 
 
 # Temat1 - Regresja liniowa
-https://colab.research.google.com/drive/1giN73lXW5VXftjUlbpxYwqbAim1V3GTw?usp=sharing
+https://colab.research.google.com/drive/1nkD6yDUkfoVQg-nPeyAyNVHwhnFcPz9y#scrollTo=XwVI3LVy7GCN
 
 # Temat2 - Regresja logistyczna
 
