@@ -26,3 +26,7 @@ https://colab.research.google.com/drive/11vHenberksU2ng68qdtK_ezLTFd2u6Ui?usp=sh
 
 https://colab.research.google.com/drive/1g2j5R_zWDODOLVSu_1AfCZGQCbuCfSbP#scrollTo=uBnHdy8Yh-xG
 https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+# Projekt
+
+https://colab.research.google.com/drive/1G9VXB3_EdRkkggJKY4hASY3P9yxwapUP#scrollTo=AlEh3BGt-ppS
