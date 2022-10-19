@@ -30,3 +30,22 @@ https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClass
 # Projekt
 
 https://colab.research.google.com/drive/1G9VXB3_EdRkkggJKY4hASY3P9yxwapUP#scrollTo=AlEh3BGt-ppS
+
+
+#Metryki
+
+```
+# #opis metryk dla klasyfikacji 
+# accuracy, tpr, ppv,npv, f1 ---> 1. to jest idealny resultat, 0 - najgoszy
+# AUC(ROC)----> 1 idealnie, 0 - najgorzej,
+# MCC----> 1, -1---> idealnie, 0 - najgorzej
+
+
+#pozadane badz nie wartosci metryk w regresji
+
+
+# MSE, RMSE, MAE ----> 0 to jest idealny wynik, im dalej(powyzej zera) tym gorzej, te metryki moga byc nieskonczenie duze(co za tym idzie, coraz gorsze rezulat)
+# R, R_Adusted---> 1, -1 to jest idealny wynik(pelna korelacja), 0 - brak korelacji
+# R2 ---> 1 - idealnie, 0-najgorzej, metryka ponizej zero ---> tzn badania relacja miedzy X a y nie jest liniowa, warto zmienic algorytm
+# MAPE--> przyjmuje wartosci powyzej zera, to jest zmiana procentowa, wiec nie ma tu zlych czy dobrych dobrych wartosci, 
+```
