@@ -29,7 +29,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClass
 
 # Projekt
 
-https://colab.research.google.com/drive/1G9VXB3_EdRkkggJKY4hASY3P9yxwapUP#scrollTo=AlEh3BGt-ppS
+https://colab.research.google.com/drive/1D0jGtXsFndfSANWiyJgoe3x5h52k8-y_?usp=sharing
 
 
 #Metryki
